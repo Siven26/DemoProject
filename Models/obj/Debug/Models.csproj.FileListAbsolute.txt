@@ -1,0 +1,6 @@
+D:\Jokes\Models\bin\Debug\Models.dll
+D:\Jokes\Models\bin\Debug\Models.pdb
+D:\Jokes\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\Jokes\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Jokes\Models\obj\Debug\Models.dll
+D:\Jokes\Models\obj\Debug\Models.pdb
